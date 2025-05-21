@@ -1,5 +1,5 @@
 # Pengertian 
-Spiking Neural Network (SNN) adalah jenis jaringan saraf tiruan yang meniru cara kerja neuron biologis dengan mengirimkan informasi melalui **lonjakan elektrik (spike)** pada waktu tertentu[^1][^11]. Berbeda dengan jaringan saraf tradisional yang menggunakan aktivasi kontinu, SNN memproses informasi secara temporal dan asinkron, membuatnya lebih efisien dan mirip dengan sistem saraf alami[^6][^11].
+Spiking Neural Network (SNN) adalah jenis jaringan saraf tiruan yang meniru cara kerja neuron biologis dengan mengirimkan informasi melalui **lonjakan elektrik (spike)** pada waktu tertentu. Berbeda dengan jaringan saraf tradisional yang menggunakan aktivasi kontinu, SNN memproses informasi secara temporal dan asinkron, membuatnya lebih efisien dan mirip dengan sistem saraf alami.
 
 ### Cara Kerja SNN
 
@@ -29,8 +29,6 @@ Spiking Neural Network (SNN) adalah jenis jaringan saraf tiruan yang meniru cara
 - **Pengenalan Pola Temporal**: Seperti pengenalan ucapan atau gerakan[^7][^11].
 
 SNN merepresentasikan generasi ketiga jaringan saraf tiruan, menggabungkan efisiensi energi dengan kemampuan pemrosesan temporal yang unggul[^4][^11]. Perkembangannya terus didorong oleh riset dalam algoritma pembelajaran (seperti STDP) dan hardware neuromorfik[^2][^9].
-
-<div style="text-align: center">⁂</div>
 
 [^1]: https://goong.com/id/word/spiking-neural-network-dalam-bahasa-indonesia/
 
