@@ -1,7 +1,3 @@
-# 🧠 **Spiking Neural Networks (SNNs): Penjelasan Mendalam**
-
----
-
 ## 🔑 Konsep Utama dalam SNN
 
 ### 1. **Neuron** dan **Spike**
